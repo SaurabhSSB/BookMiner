@@ -21,7 +21,7 @@
 ├── 2_EDA.ipynb             # Performs EDA on the combined CSV data
 ├── DATA.csv                # Cleaned and structured dataset
 ├── README.md               # Project overview and instructions
-├── htmls                   # All scraped pages from website
+├── HTMLs                   # All scraped pages from website
 ```
 
 ## 📊 Sample Insights
